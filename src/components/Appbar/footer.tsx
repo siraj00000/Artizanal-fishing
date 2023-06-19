@@ -1,5 +1,4 @@
 import { LogoJoranFooter } from "../../assets";
-import GoogleMap from "../Other/GoogleMap";
 import { FaFacebookF } from "react-icons/fa";
 import { BsTwitter, BsInstagram } from "react-icons/bs";
 import CustomLeafLetMap from "../Other/GoogleMap/LeafletMap";
